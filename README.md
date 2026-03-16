@@ -94,9 +94,22 @@ In the web interface:
 ## Supported Models
 
 The LLM Gateway actively supports the following APIs:
-* **OpenAI:** `gpt-5.4`, `gpt-5.4-pro`, `gpt-5.3`, `gpt-4.1`
-* **Anthropic:** `claude-sonnet-4-6`, `claude-opus-4-6`, `claude-haiku-4-5`
-* **Google:** `gemini-3.1-pro`, `gemini-3-flash`, `gemini-2.5-pro`
+### Google Gemini
+* **gemini-3.1-pro** 
+* **gemini-3-flash** 
+* **gemini-2.5-pro**
+* **gemini-2.5-flash** 
+
+### OpenAI GPT
+* **gpt-5.4**
+* **gpt-5.3** 
+* **gpt-5.2**
+* **gpt-4.1** / **gpt-4.1-mini**
+
+### Anthropic Claude
+* **claude-sonnet-4-6**
+* **claude-opus-4-6**
+* **claude-haiku-4-5**
 
 ---
 
