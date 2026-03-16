@@ -14,21 +14,21 @@
 
 > **Prompt-Based Security Analyzer** is a high-performance security analysis tool featuring a built-in benchmarking and dashboard interface. It leverages state-of-the-art Large Language Models (LLMs) to perform Static Application Security Testing (SAST) on both individual files and entire project structures.
 
+
 ---
 
 ## Interface Previews
 
 **1. Real-time Scan Execution & ZIP Upload**
-![Scan Results Overview](results1.png)
+![Scan Results Overview](docs/screenshots/results1.png)
 
 **2. Detailed Vulnerability Analysis & Remediation**
-![Detailed Vulnerability Findings](results2.png)
+![Detailed Vulnerability Findings](docs/screenshots/results2.png)
 
 **3. Multi-Model Benchmark Dashboard**
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](docs/screenshots/dashboard.png)
 
 ---
-
 ## Key Features
 
 * **Advanced Project Structures:** Supports analysis of entire projects via `.zip` uploads, allowing models to understand the broader context and directory structure of your application.
